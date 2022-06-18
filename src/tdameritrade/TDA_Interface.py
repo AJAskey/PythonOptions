@@ -1,15 +1,20 @@
 import json
+from json import JSONDecodeError
+from typing import Union
 
 import requests
 
-from TDAmeritrade.OptionData import OptionData
+
+from requests import RequestException
+
+from src.tdameritrade.OptionData import OptionData
 
 
 def call_tda(url, params):
     try:
         page = requests.get(url=url, params=params)
         content = json.loads(page.content)
-    except:
+    except (RequestException, JSONDecodeError) as e:
         content = ""
     return content
 

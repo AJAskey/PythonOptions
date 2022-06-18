@@ -1,0 +1,139 @@
+ XLB:
+	Volume Put   :            8,345		Call :              741	 : 11.26
+	Volume Put $ :       $2,493,570		Call :         $183,218	 : 13.61
+	OI Put       :           92,477		Call :           35,953	 : 2.57
+	OI Put     $ :      $47,968,652		Call :      $14,878,423	 : 3.22
+	Avg IV Put   :            27.42		Call :            24.40	   hVol : 31.38	Skew : 112
+ XLC:
+	Volume Put   :              307		Call :              793	 : 0.39
+	Volume Put $ :          $93,072		Call :          $81,241	 : 1.15
+	OI Put       :           37,836		Call :           29,607	 : 1.28
+	OI Put     $ :      $25,980,284		Call :       $4,983,455	 : 5.21
+	Avg IV Put   :            28.52		Call :            30.90	   hVol : 36.02	Skew : 92
+ XLE:
+	Volume Put   :          724,736		Call :          228,007	 : 3.18
+	Volume Put $ :     $146,838,721		Call :     $174,629,421	 : 0.84
+	OI Put       :        1,694,577		Call :          597,002	 : 2.84
+	OI Put     $ :     $661,170,989		Call :     $269,904,836	 : 2.45
+	Avg IV Put   :            46.86		Call :            41.60	   hVol : 40.76	Skew : 113
+ XLF:
+	Volume Put   :          142,086		Call :           75,250	 : 1.89
+	Volume Put $ :      $20,136,706		Call :       $3,340,987	 : 6.03
+	OI Put       :        2,157,811		Call :        1,252,221	 : 1.72
+	OI Put     $ :     $663,137,984		Call :      $90,664,362	 : 7.31
+	Avg IV Put   :            30.48		Call :            25.73	   hVol : 29.41	Skew : 118
+ KRE:
+	Volume Put   :            3,899		Call :            6,031	 : 0.65
+	Volume Put $ :       $1,162,268		Call :       $1,787,280	 : 0.65
+	OI Put       :          600,557		Call :          277,810	 : 2.16
+	OI Put     $ :     $286,495,228		Call :      $59,940,233	 : 4.78
+	Avg IV Put   :            35.05		Call :            28.11	   hVol : 30.30	Skew : 125
+ XLI:
+	Volume Put   :            5,858		Call :           12,305	 : 0.48
+	Volume Put $ :       $1,953,314		Call :         $883,878	 : 2.21
+	OI Put       :          156,341		Call :           85,356	 : 1.83
+	OI Put     $ :      $93,671,327		Call :       $7,952,344	 : 11.78
+	Avg IV Put   :            26.04		Call :            22.67	   hVol : 28.79	Skew : 115
+ XLK:
+	Volume Put   :            7,794		Call :            9,531	 : 0.82
+	Volume Put $ :       $7,112,616		Call :       $2,181,097	 : 3.26
+	OI Put       :          168,099		Call :          158,047	 : 1.06
+	OI Put     $ :     $185,769,997		Call :      $53,231,176	 : 3.49
+	Avg IV Put   :            33.43		Call :            29.41	   hVol : 38.53	Skew : 114
+ IGV:
+	Volume Put   :            3,653		Call :              597	 : 6.12
+	Volume Put $ :       $4,274,921		Call :         $665,254	 : 6.43
+	OI Put       :           27,170		Call :           24,231	 : 1.12
+	OI Put     $ :      $65,851,984		Call :      $12,678,898	 : 5.19
+	Avg IV Put   :            39.95		Call :            37.35	   hVol : 45.98	Skew : 107
+ XLP:
+	Volume Put   :           11,719		Call :           14,907	 : 0.79
+	Volume Put $ :       $2,062,333		Call :       $1,226,017	 : 1.68
+	OI Put       :          381,336		Call :          125,367	 : 3.04
+	OI Put     $ :      $97,165,201		Call :      $18,471,547	 : 5.26
+	Avg IV Put   :            22.92		Call :            19.77	   hVol : 28.97	Skew : 116
+ XLU:
+	Volume Put   :           17,111		Call :           18,385	 : 0.93
+	Volume Put $ :       $4,031,090		Call :       $2,151,499	 : 1.87
+	OI Put       :          262,658		Call :          167,341	 : 1.57
+	OI Put     $ :     $102,182,292		Call :      $21,367,799	 : 4.78
+	Avg IV Put   :            24.08		Call :            21.40	   hVol : 25.39	Skew : 113
+ XLV:
+	Volume Put   :           10,413		Call :            8,953	 : 1.16
+	Volume Put $ :       $2,299,961		Call :       $1,573,738	 : 1.46
+	OI Put       :          139,098		Call :           85,649	 : 1.62
+	OI Put     $ :      $73,249,477		Call :      $19,670,994	 : 3.72
+	Avg IV Put   :            23.75		Call :            20.19	   hVol : 21.87	Skew : 118
+ XLY:
+	Volume Put   :            4,507		Call :            4,080	 : 1.10
+	Volume Put $ :       $3,780,675		Call :       $1,391,512	 : 2.72
+	OI Put       :          142,507		Call :           64,313	 : 2.22
+	OI Put     $ :     $187,792,432		Call :      $17,547,619	 : 10.70
+	Avg IV Put   :            36.93		Call :            33.66	   hVol : 47.28	Skew : 110
+ XLRE:
+	Volume Put   :              561		Call :              467	 : 1.20
+	Volume Put $ :         $111,216		Call :         $118,766	 : 0.94
+	OI Put       :           24,947		Call :           18,008	 : 1.39
+	OI Put     $ :       $9,228,174		Call :       $1,010,248	 : 9.13
+	Avg IV Put   :            27.34		Call :            29.06	   hVol : 30.77	Skew : 94
+ IYT:
+	Volume Put   :              206		Call :               50	 : 4.12
+	Volume Put $ :         $345,660		Call :          $23,689	 : 14.59
+	OI Put       :           17,739		Call :            2,459	 : 7.21
+	OI Put     $ :      $23,782,140		Call :       $1,119,977	 : 21.23
+	Avg IV Put   :            44.03		Call :             0.00	   hVol : 36.58	Skew : 0
+ XHB:
+	Volume Put   :           13,137		Call :              892	 : 14.73
+	Volume Put $ :       $4,656,435		Call :         $192,126	 : 24.24
+	OI Put       :          152,929		Call :           51,162	 : 2.99
+	OI Put     $ :      $71,408,842		Call :       $3,739,823	 : 19.09
+	Avg IV Put   :            41.64		Call :            40.86	   hVol : 45.24	Skew : 102
+ XRT:
+	Volume Put   :            9,616		Call :           29,606	 : 0.32
+	Volume Put $ :       $2,059,439		Call :       $4,143,136	 : 0.50
+	OI Put       :          113,236		Call :           35,602	 : 3.18
+	OI Put     $ :      $76,248,924		Call :       $4,492,318	 : 16.97
+	Avg IV Put   :            44.10		Call :            39.74	   hVol : 53.51	Skew : 111
+ IBB:
+	Volume Put   :              212		Call :            1,725	 : 0.12
+	Volume Put $ :         $143,375		Call :         $500,794	 : 0.29
+	OI Put       :           23,330		Call :           42,764	 : 0.55
+	OI Put     $ :      $31,724,696		Call :      $10,271,705	 : 3.09
+	Avg IV Put   :            32.50		Call :            31.73	   hVol : 33.88	Skew : 102
+ SMH:
+	Volume Put   :           32,848		Call :           18,009	 : 1.82
+	Volume Put $ :      $21,527,201		Call :      $11,037,623	 : 1.95
+	OI Put       :          197,272		Call :          118,909	 : 1.66
+	OI Put     $ :     $320,134,770		Call :      $50,663,600	 : 6.32
+	Avg IV Put   :            43.31		Call :            36.45	   hVol : 46.27	Skew : 119
+ IWM:
+	Volume Put   :          546,748		Call :          198,788	 : 2.75
+	Volume Put $ :     $248,290,296		Call :      $73,336,463	 : 3.39
+	OI Put       :        4,698,750		Call :        1,874,784	 : 2.51
+	OI Put     $ :   $7,202,706,926		Call :     $582,958,992	 : 12.36
+	Avg IV Put   :            33.12		Call :            28.54	   hVol : 35.01	Skew : 116
+ DIA:
+	Volume Put   :           21,285		Call :           23,953	 : 0.89
+	Volume Put $ :      $13,386,518		Call :       $9,015,845	 : 1.48
+	OI Put       :          315,731		Call :          241,427	 : 1.31
+	OI Put     $ :     $935,803,518		Call :      $82,565,236	 : 11.33
+	Avg IV Put   :            26.06		Call :            20.20	   hVol : 25.03	Skew : 129
+ QQQ:
+	Volume Put   :          808,474		Call :          786,999	 : 1.03
+	Volume Put $ :     $659,344,901		Call :     $318,595,549	 : 2.07
+	OI Put       :        5,903,822		Call :        3,604,232	 : 1.64
+	OI Put     $ :  $16,207,856,565		Call :   $1,965,553,001	 : 8.25
+	Avg IV Put   :            33.72		Call :            30.62	   hVol : 39.54	Skew : 110
+ SPY:
+	Volume Put   :        2,179,968		Call :        1,692,290	 : 1.29
+	Volume Put $ :   $1,147,203,070		Call :     $538,809,219	 : 2.13
+	OI Put       :        9,049,764		Call :        6,277,573	 : 1.44
+	OI Put     $ :  $21,340,664,629		Call :   $2,478,991,863	 : 8.61
+	Avg IV Put   :            28.43		Call :            24.30	   hVol : 31.07	Skew : 117
+
+ Combined XLB XLC XLE XLF KRE XLI XLK IGV XLP XLU XLV XLY XLRE IYT XHB XRT IBB SMH IWM DIA QQQ SPY:
+	Volume Put   :        4,553,483		Call :        3,132,359	 : 1.45
+	Volume Put $ :   $2,293,307,368		Call :   $1,145,868,361	 : 2.00
+	OI Put       :       26,357,987		Call :       15,169,817	 : 1.74
+	OI Put     $ :  $48,709,995,039		Call :   $5,772,658,456	 : 8.44
+
